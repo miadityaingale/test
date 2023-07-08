@@ -1,3 +1,5 @@
 Hello I'm Aditya Ingale...
 My Age is 20 years
 I'm a software Developer
+And 
+My Current location is Nagar
